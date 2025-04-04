@@ -108,11 +108,6 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
 
-  redis:
-    restart: always
-    ports:
-      - "6379:6379"
-
 volumes:
   pgdata:
 
