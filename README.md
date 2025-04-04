@@ -1,8 +1,6 @@
 # multitenant_with_databasetodatase
 multitenant Architecture Flow
 
-
-
 This project demonstrates a scalable **multi-tenant architecture** where each tenant (Organiations) has its own isolated **PostgreSQL database**, ensuring complete data separation and security. The backend is built using **FastAPI**, a modern, fast web framework for building APIs with Python.
 
 ## Key Features
@@ -17,7 +15,7 @@ This project demonstrates a scalable **multi-tenant architecture** where each te
 
 You can clone fromm here
 first step:
-git clone https://github.com/multitenant_with_databasetodatase.git
+git clone https://github.com/prashant0809/multitenant_with_databasetodatase.git
 
 then you can create virtual env
 
